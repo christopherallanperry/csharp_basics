@@ -1,0 +1,11 @@
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops.deps.json
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops.runtimeconfig.json
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops.runtimeconfig.dev.json
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops.dll
+/Users/christopherallanperry/development/csharp/Loops/bin/Debug/netcoreapp3.0/Loops.pdb
+/Users/christopherallanperry/development/csharp/Loops/obj/Debug/netcoreapp3.0/Loops.csprojAssemblyReference.cache
+/Users/christopherallanperry/development/csharp/Loops/obj/Debug/netcoreapp3.0/Loops.AssemblyInfoInputs.cache
+/Users/christopherallanperry/development/csharp/Loops/obj/Debug/netcoreapp3.0/Loops.AssemblyInfo.cs
+/Users/christopherallanperry/development/csharp/Loops/obj/Debug/netcoreapp3.0/Loops.dll
+/Users/christopherallanperry/development/csharp/Loops/obj/Debug/netcoreapp3.0/Loops.pdb

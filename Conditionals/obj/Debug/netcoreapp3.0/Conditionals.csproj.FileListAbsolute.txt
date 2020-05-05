@@ -1,0 +1,11 @@
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals.deps.json
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals.runtimeconfig.json
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals.runtimeconfig.dev.json
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals.dll
+/Users/christopherallanperry/development/csharp/Conditionals/bin/Debug/netcoreapp3.0/Conditionals.pdb
+/Users/christopherallanperry/development/csharp/Conditionals/obj/Debug/netcoreapp3.0/Conditionals.csprojAssemblyReference.cache
+/Users/christopherallanperry/development/csharp/Conditionals/obj/Debug/netcoreapp3.0/Conditionals.AssemblyInfoInputs.cache
+/Users/christopherallanperry/development/csharp/Conditionals/obj/Debug/netcoreapp3.0/Conditionals.AssemblyInfo.cs
+/Users/christopherallanperry/development/csharp/Conditionals/obj/Debug/netcoreapp3.0/Conditionals.dll
+/Users/christopherallanperry/development/csharp/Conditionals/obj/Debug/netcoreapp3.0/Conditionals.pdb

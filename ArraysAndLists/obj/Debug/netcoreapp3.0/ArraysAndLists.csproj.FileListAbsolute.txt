@@ -1,0 +1,11 @@
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.deps.json
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.runtimeconfig.json
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.runtimeconfig.dev.json
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.dll
+/Users/christopherallanperry/development/csharp/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.pdb
+/Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.csprojAssemblyReference.cache
+/Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.AssemblyInfoInputs.cache
+/Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.AssemblyInfo.cs
+/Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.dll
+/Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.pdb
