@@ -9,3 +9,14 @@
 /Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.AssemblyInfo.cs
 /Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.dll
 /Users/christopherallanperry/development/csharp/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.pdb
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.exe
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.deps.json
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.runtimeconfig.json
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.runtimeconfig.dev.json
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.dll
+C:\developer\csharp_basics\ArraysAndLists\bin\Debug\netcoreapp3.0\ArraysAndLists.pdb
+C:\developer\csharp_basics\ArraysAndLists\obj\Debug\netcoreapp3.0\ArraysAndLists.csprojAssemblyReference.cache
+C:\developer\csharp_basics\ArraysAndLists\obj\Debug\netcoreapp3.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\developer\csharp_basics\ArraysAndLists\obj\Debug\netcoreapp3.0\ArraysAndLists.AssemblyInfo.cs
+C:\developer\csharp_basics\ArraysAndLists\obj\Debug\netcoreapp3.0\ArraysAndLists.dll
+C:\developer\csharp_basics\ArraysAndLists\obj\Debug\netcoreapp3.0\ArraysAndLists.pdb

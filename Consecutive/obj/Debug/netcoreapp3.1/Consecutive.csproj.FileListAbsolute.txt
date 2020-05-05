@@ -1,0 +1,11 @@
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.exe
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.deps.json
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.runtimeconfig.json
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.runtimeconfig.dev.json
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.dll
+C:\developer\csharp_basics\Consecutive\bin\Debug\netcoreapp3.1\Consecutive.pdb
+C:\developer\csharp_basics\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.csprojAssemblyReference.cache
+C:\developer\csharp_basics\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.AssemblyInfoInputs.cache
+C:\developer\csharp_basics\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.AssemblyInfo.cs
+C:\developer\csharp_basics\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.dll
+C:\developer\csharp_basics\Consecutive\obj\Debug\netcoreapp3.1\Consecutive.pdb
