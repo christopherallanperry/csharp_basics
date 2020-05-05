@@ -24,7 +24,6 @@ namespace Consecutive
             Console.WriteLine("You entered: " + series);
 
             var integers = series.Split('-');
-            //  wtf does this not work?
             Array.Sort(integers);
 
             for (var i = 0; i < integers.Length; i++)
