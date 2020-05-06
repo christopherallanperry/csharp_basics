@@ -27,7 +27,9 @@ namespace Consecutive
             Array.Sort(integers);
 
             for (var i = 0; i < integers.Length; i++)
+            {
                 Console.WriteLine(integers[i]);
+            }
 
             Console.WriteLine("Integers is now [{0}]", string.Join(", ", integers));
         }
